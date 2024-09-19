@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "134292134717",
+    "project_id": "earth-bound-bd7e2",
+    "storage_bucket": "earth-bound-bd7e2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:134292134717:android:89ac10be53982852d2c354",
+        "android_client_info": {
+          "package_name": "com.earthboundfilter"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "134292134717-0075g38ern985f82f7qdr61hmpv06hjf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCKY06G4SPShNtZVmd9LlIXqga6yDadmM4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "134292134717-0075g38ern985f82f7qdr61hmpv06hjf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
