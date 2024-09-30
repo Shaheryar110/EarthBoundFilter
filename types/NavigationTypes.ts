@@ -15,6 +15,7 @@ export type RootStackParamListAPP = {
   FlatHvacFilter: undefined;
   VentFilter: undefined;
   cart: undefined;
+
   accounts: undefined;
 };
 export type RootBottomTabParams = {
@@ -22,6 +23,7 @@ export type RootBottomTabParams = {
   Menu: undefined;
   Profile: undefined;
   Heart: undefined;
+  Gallery: undefined;
 };
 export type RootGuideStackParamList = {
   MainGuide: undefined;
